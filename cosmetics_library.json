@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Cyberpunk1",
+    "theme": "cyberpunk",
+    "items": ["jacket", "hood", "shades", "pants"],
+    "colors": ["magenta", "neon blue", "black"],
+    "image": "neon_streetwear.jpg",
+    "steps": ["step1: set color of jacket to pink",
+              "step2: set color of shades to black",
+              "step3: set color of pants to brown"
+            ]
+  },
+  
+
+
+  {
+    "name": "darkfantasy1",
+    "theme": "dark fantasy",
+    "items": ["cloak", "hood", "leather pants", "chest armor"],
+    "colors": ["black", "red", "silver"],
+    "image": "raven_witch.jpg",
+    "steps": ["step1: set color of jacket to pink",
+              "step2: set color of shades to black",
+              "step3: set color of pants to brown"
+            ]
+  },
+
+
+
+  {
+    "name": "coquette1",
+    "theme": "coquette",
+    "items": ["skirt", "sando", "slipper", "jacket"],
+    "colors": ["white", "silver"],
+    "image": "coquette1.jpg",
+    "steps": ["step1: set color of jacket to pink",
+              "step2: set color of shades to black",
+              "step3: set color of pants to brown"
+            ]
+  },
+
+
+
+  {
+    "name": "oldmoney1",
+    "theme": "old money",
+    "items": ["sando", "sandals", "pants"],
+    "colors": ["white", "brown"],
+    "image": "oldmoney1.jpg",
+    "steps": ["step1: set color of jacket to pink",
+              "step2: set color of shades to black",
+              "step3: set color of pants to brown"
+            ]
+  },
+
+
+  
+  {
+    "name": "streetwear1",
+    "theme": "streetwear",
+    "items": ["jeans", "hoodie", "sneakers"],
+    "colors": ["black", "red", "silver"],
+    "image": "streetwear1.jpg",
+    "steps": ["step1: set color of jacket to pink",
+              "step2: set color of shades to black",
+              "step3: set color of pants to brown"
+            ]
+  }
+]
